@@ -1,16 +1,14 @@
-### Hi there 👋
+### :globe_with_meridians: Charles Lo
 
-<!--
-**charleslo1/charleslo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=charleslo1&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-Here are some ideas to get you started:
+你好~ 我是 “蚂蚁清单” 小程序的作者 Charles，生活在深圳，会点技术、略懂产品，目前专注于前端-可视化搭建平台方向  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+业余爱好  
+![example](https://img.shields.io/badge/跑步-red.svg)
+![example](https://img.shields.io/badge/羽毛球-green.svg)
+![example](https://img.shields.io/badge/阅读-blue.svg)
+
+交个朋友  
+:point_right: 邮箱：[charleslo@foxmail.com](mailto:charleslo@foxmail.com)  
+:point_right: 微信：16295853
