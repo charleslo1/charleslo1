@@ -8,6 +8,7 @@
 ![example](https://img.shields.io/badge/跑步-red.svg)
 ![example](https://img.shields.io/badge/羽毛球-green.svg)
 ![example](https://img.shields.io/badge/阅读-blue.svg)
+![example](https://img.shields.io/badge/吉他-8A2BE2.svg)
 
 交个朋友  
 :point_right: 邮箱：[charleslo@foxmail.com](mailto:charleslo@foxmail.com)  
